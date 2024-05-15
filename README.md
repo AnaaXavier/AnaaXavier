@@ -15,7 +15,6 @@
 - Systems Analyst and Developer at Centro Universitário Salesiano de São Paulo (UNISAL)
   
 ## 💻 Tech
-- I have experience with:
 - databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
 - Python
 - PHP
