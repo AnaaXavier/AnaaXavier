@@ -7,10 +7,15 @@
 </div>
 <br><hr><br>
 
-##  Welcome!
+# Welcome!
 <br>
 
+## 📚 Education
 - I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
+- Systems Analyst and Developer at Centro Universitário Salesiano de São Paulo (UNISAL)
+## 💻 Tech
 - I have experience with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
+
+## 🍄 About me
 - Pronouns: She/Her
 - Fun fact: I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
