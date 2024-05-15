@@ -13,8 +13,13 @@
 ## 📚 Education and current studies
 - I'm currently learning Python, Flask, SQLAlchemy and ORM (Object-Relational Mapping).
 - Systems Analyst and Developer at Centro Universitário Salesiano de São Paulo (UNISAL)
+  
 ## 💻 Tech
-- I have experience with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
+- I have experience with:
+- databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
+- Python
+- PHP
+- little bit of C# and C!
 
 ## 🧠 Skills
 - Advanced english
