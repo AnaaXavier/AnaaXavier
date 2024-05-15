@@ -8,7 +8,7 @@
 <br><hr><br>
 
 ##  Welcome!
-<hr>
+<br>
 
 - I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
 - I have experience with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
