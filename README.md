@@ -15,10 +15,10 @@
 - Systems Analyst and Developer at Centro Universitário Salesiano de São Paulo (UNISAL)
   
 ## 💻 Tech
-- Databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
-- Python
-- PHP
-- A little bit of C# and C!
+- Experience/knowledge with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
+- Experience with Python
+- Experience with PHP
+- Experience with a little bit of C# and C!
 
 ## 🧠 Skills
 - Advanced english
