@@ -2,8 +2,8 @@
 <hr><br>
 <div>
 	<a href="https://github.com/AnaaXavier">
-	<img height="155cm" src="https://github-readme-stats.vercel.app/api?username=AnaaXavier&show_icons=true&theme=vue-dark&include_all_commits-true&count_private=true"/>
-	<img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaaXavier&layout=compact&langs_count=16&theme=vue-dark"/>
+	<img height="145cm" src="https://github-readme-stats.vercel.app/api?username=AnaaXavier&show_icons=true&theme=vue-dark&include_all_commits-true&count_private=true"/>
+	<img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaaXavier&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
 <br><hr><br>
 
