@@ -16,6 +16,13 @@
 ## 💻 Tech
 - I have experience with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
 
+## 🧠 Skills
+- Advanced english
+- Teamwork
+- Continuous learning
+- Critical thinking
+- Emotional intelligence
+
 ## 🍄 About me
 - Pronouns: She/Her
 - Fun fact: I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
