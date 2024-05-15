@@ -10,6 +10,6 @@
 <br><hr>
 
 - I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
-- I have experience with MySQL, Python, PHP and a little bit of C#!
+- I have experience with databases (like SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
 - Pronouns: She/Her
 - Fun fact: I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
