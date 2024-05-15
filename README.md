@@ -25,4 +25,4 @@
 
 ## 🍄 About me
 - Pronouns: She/Her
-- Fun fact: I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
+- Fun fact(s): I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
