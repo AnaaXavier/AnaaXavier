@@ -18,7 +18,8 @@
 - Experience/knowledge with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
 - Experience with Python
 - Experience with PHP
-- A little bit of experience with C# and C!
+- A little bit of experience with C# and C
+- Knowledge in Scrum, waterfall and Kanban
 
 ## 🧠 Skills
 - Advanced english
