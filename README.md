@@ -2,7 +2,8 @@
 
 ![ana_github](https://github.com/AnaaXavier/AnaaXavier/assets/136129492/016b8abe-782c-4c3b-9acf-3343cc03fd83)
 
-- I'm currently learning Python and ORM (Object-Relational Mapping).
+- I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
+- I have experience with MySQL, Python, PHP and a little bit of C#!
 - Pronouns: She/Her
 - Fun fact: I love the RGB (red, green and blue) colors! Specially red. 🔴🟢🔵
 
