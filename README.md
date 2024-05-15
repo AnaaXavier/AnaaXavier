@@ -20,6 +20,7 @@
 - Experience with PHP
 - A little bit of experience with C# and C
 - Knowledge in Scrum, waterfall and Kanban
+- Knowledge in HTML
 
 ## 🧠 Skills
 - Advanced english
