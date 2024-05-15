@@ -5,9 +5,10 @@
 	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AnaaXavier&show_icons=true&theme=vue-dark&include_all_commits-true&count_private=true"/>
 	<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaaXavier&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
-<br><hr>
+<br><hr><br>
 
 ##  Welcome!
+<hr>
 
 - I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
 - I have experience with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model)), Python, PHP and a little bit of C#!
