@@ -10,7 +10,7 @@
 # Welcome!
 <br>
 
-## 📚 Education
+## 📚 Education and current studies
 - I'm currently learning Python, SQLAlchemy and ORM (Object-Relational Mapping).
 - Systems Analyst and Developer at Centro Universitário Salesiano de São Paulo (UNISAL)
 ## 💻 Tech
