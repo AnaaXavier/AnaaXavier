@@ -18,7 +18,7 @@
 - Experience/knowledge with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
 - Experience with Python
 - Experience with PHP
-- Experience with a little bit of C# and C!
+- A little bit of experience with C# and C!
 
 ## 🧠 Skills
 - Advanced english
