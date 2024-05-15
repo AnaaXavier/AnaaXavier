@@ -19,7 +19,7 @@
 - databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
 - Python
 - PHP
-- little bit of C# and C!
+- A little bit of C# and C!
 
 ## 🧠 Skills
 - Advanced english
