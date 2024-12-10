@@ -9,7 +9,6 @@
 
 # Welcome!
 <br>
-
 ## 💻 Tech
 - Experience/knowledge with databases (SQL, ERD (Entity-Relationship Diagram) and ERM (Entity-Relationship Model))
 - Experience with Python
